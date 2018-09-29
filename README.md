@@ -1,0 +1,2 @@
+# ffgobot
+Haha, yes.
